@@ -13,7 +13,7 @@ para ejecutar este proyecto de forma local en tu computadora, sigue estos pasos:
    npm install
 inicia el servidor de desarrollo local con el comando:
 
-Bash
+bash```
 node app.js
 el servidor se encendera de manera automatica y estara escuchando en el puerto: http://localhost:3000
 
